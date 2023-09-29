@@ -1,4 +1,4 @@
-# Ko ko
+# Ko Ko
 Email: kokouuni@gmail.com
 
 ## Education
