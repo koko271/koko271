@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @koko271
-- 👀 I’m interested in biology, physics
-- 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Kou ko
+Email: kokouuni@gmail.com
+
+## Education
+### [Tokyo Institute of Technology](https://www.titech.ac.jp/english)  　　Tokyo/Kanagawa Japan
+*Master of Science, Apr 2023-Present*
+## My skill
+* Physics
+* Applied Mathematics
+* Python, MATLAB, C++
+## I am learning
+* Chemistry
+* Biology
+* Materials Science
+
 
 <!---
 koko271/koko271 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
