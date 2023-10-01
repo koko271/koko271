@@ -1,5 +1,5 @@
 # Ko Ko
-Email: kokouuni@gmail.com
+:email: kokouuni@gmail.com
 
 ## Education
 ### [Tokyo Institute of Technology](https://www.titech.ac.jp/english)  　　Tokyo/Kanagawa Japan
