@@ -2,16 +2,15 @@
 :email: kokouuni@gmail.com
 
 ## Education
-### [Tokyo Institute of Technology](https://www.titech.ac.jp/english)  　　Tokyo/Kanagawa Japan
-*Master of Science, Apr 2023-Present*
+### [Tokyo Institute of Technology](https://www.titech.ac.jp/english)  　　Tokyo Japan
+*Doctor of Science, Apr 2023-Present*
 ## My skill
 * Physics
 * Applied Mathematics
+* Social Network
 * Python, MATLAB, C++
 ## I am learning
-* Chemistry
-* Biology
-* Materials Science
+* Game Theory
 
 
 <!---
